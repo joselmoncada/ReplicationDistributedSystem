@@ -14,6 +14,7 @@ import java.net.Socket;
 
 public class MainServer {
 
+        //TODO SORRY ESTO ESTA HECHO CON SOCKETS Y AQUI ES CON HTTP LO VOY A CAMBIAR
     private ServerSocket serverSocket = null;
 
     public static void main(String[] args) {
